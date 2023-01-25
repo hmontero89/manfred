@@ -1,0 +1,123 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Hebert",
+      "surnames": "Montero García",
+      "title": "Software Engineer",
+      "description": "TBD",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/hebertmontero/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BBVA Next Technologies"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2017-09-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Teamhood"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador full stack",
+            "startDate": "2017-01-01",
+            "finishDate": "2017-04-30",
+            "challenges": [
+              {
+                "description": "Freelance. Desarrollo Web full stack en varios módulos de la plataforma de trabajo colaborativo teamhood.io , utilizando HTML5, CSS3, Bootstrap, Semantic UI, JavaScript, Backbone.js, JQuery and RequireJS; conectado con un backed desarrollado en Node.js, Express.js y MongoDB."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Optiva Media"
+        },
+        "roles": [
+          {
+            "name": "Software Development Intern",
+            "startDate": "2015-09-01",
+            "finishDate": "2016-06-30",
+            "challenges": [
+              {
+                "description": "Front end development in an International Digital Tv Project.\nDevelopment of a metadata validation tool for Vodafone.\nAnalysis and automatic testing over the the API of the platform Kaltura, which holds all Vodafone's digital content."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hungry Design Studio"
+        },
+        "roles": [
+          {
+            "name": "Web Designer and Developer",
+            "startDate": "2012-11-01",
+            "finishDate": "2014-09-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Paxer"
+        },
+        "roles": [
+          {
+            "name": "Software Analyst and Developer",
+            "startDate": "2011-09-01",
+            "finishDate": "2012-09-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/hebertmontero/"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
